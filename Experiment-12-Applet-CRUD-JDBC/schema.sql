@@ -1,0 +1,7 @@
+CREATE DATABASE IF NOT EXISTS labdb;
+USE labdb;
+
+CREATE TABLE IF NOT EXISTS users (
+    name     VARCHAR(50) PRIMARY KEY,
+    password VARCHAR(50) NOT NULL
+);

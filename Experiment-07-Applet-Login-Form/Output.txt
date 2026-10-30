@@ -1,0 +1,8 @@
+EXPERIMENT 7 - OUTPUT
+========================================
+[Expected output (this program opens a GUI window, so it cannot print text).]
+Run it on your machine and replace this note with a screenshot, e.g. output.png.
+
+A form with Name and Password (masked with *) fields and Submit / Reset buttons.
+After entering Name = Rahul and Password = abc123 and clicking Submit:
+  Name: Rahul | Password length: 6

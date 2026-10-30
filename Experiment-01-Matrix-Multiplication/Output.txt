@@ -1,0 +1,16 @@
+EXPERIMENT 1 - OUTPUT
+========================================
+[Captured from an actual run of the program.]
+
+Enter rows and columns of Matrix A: 2 3
+Enter rows and columns of Matrix B: 3 2
+Enter elements of Matrix A (2x3), row by row:
+1 2 3
+4 5 6
+Enter elements of Matrix B (3x2), row by row:
+7 8
+9 10
+11 12
+Resultant Matrix (A x B):
+58	64	
+139	154	

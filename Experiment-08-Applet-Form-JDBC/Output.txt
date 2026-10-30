@@ -1,0 +1,14 @@
+EXPERIMENT 8 - OUTPUT
+========================================
+[Expected output (requires MySQL running with schema.sql applied and the MySQL JDBC driver on the classpath).]
+Run it on your machine and replace this note with a screenshot, e.g. output.png.
+
+Form: Name = Rahul, Password = abc123 -> click "Save to Database"
+Status label: Record saved successfully.
+
+mysql> SELECT * FROM users;
++-------+----------+
+| name  | password |
++-------+----------+
+| Rahul | abc123   |
++-------+----------+

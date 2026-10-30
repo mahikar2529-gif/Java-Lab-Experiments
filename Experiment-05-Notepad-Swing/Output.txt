@@ -1,0 +1,10 @@
+EXPERIMENT 5 - OUTPUT
+========================================
+[Expected output (this program opens a GUI window, so it cannot print text).]
+Run it on your machine and replace this note with a screenshot, e.g. output.png.
+
+A window titled "Untitled - Notepad" with menus:
+  File   -> New, Open, Save, Exit
+  Edit   -> Cut, Copy, Paste, Select All
+  Format -> Word Wrap, Increase Font, Decrease Font
+Text can be typed, saved to a file and reopened.

@@ -1,0 +1,10 @@
+EXPERIMENT 9 - OUTPUT
+========================================
+[Expected output (requires MySQL running with schema.sql applied and the MySQL JDBC driver on the classpath).]
+Run it on your machine and replace this note with a screenshot, e.g. output.png.
+
+Registration form (Roll No, Name, Course, Email, Phone) with a table of registered students below.
+On clicking Register: dialog "Student registered successfully!" and the new row appears:
+
+Roll No | Name  | Course     | Email           | Phone
+101     | Anita | B.Tech CSE | anita@mail.com  | 9876543210

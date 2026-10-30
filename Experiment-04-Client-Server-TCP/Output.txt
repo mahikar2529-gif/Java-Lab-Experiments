@@ -1,0 +1,21 @@
+EXPERIMENT 4 - OUTPUT
+========================================
+[Captured from an actual run of the program.]
+
+--- Terminal 1 (Server) ---
+Server started. Waiting for client on port 5000...
+Client connected: /127.0.0.1
+Client says: hello server
+Client says: java networking
+Client says: bye
+Connection closed.
+
+--- Terminal 2 (Client) ---
+Connected to server.
+Enter message: hello server
+Server replies: HELLO SERVER
+Enter message: java networking
+Server replies: JAVA NETWORKING
+Enter message: bye
+Server replies: Goodbye!
+Disconnected.

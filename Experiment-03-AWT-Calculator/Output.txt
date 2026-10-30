@@ -1,0 +1,12 @@
+EXPERIMENT 3 - OUTPUT
+========================================
+[Expected output (this program opens a GUI window, so it cannot print text).]
+Run it on your machine and replace this note with a screenshot, e.g. output.png.
+
+A calculator window with a display and a 4x4 keypad:
+  7 8 9 /
+  4 5 6 *
+  1 2 3 -
+  C 0 = +
+
+Example: pressing 1 2 + 8 = shows 20.

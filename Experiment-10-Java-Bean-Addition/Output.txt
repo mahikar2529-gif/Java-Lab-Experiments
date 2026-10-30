@@ -1,0 +1,8 @@
+EXPERIMENT 10 - OUTPUT
+========================================
+[Captured from an actual run of the program.]
+
+Number 1 : 15
+Number 2 : 27
+Sum      : 42
+After serialization -> Sum: 42

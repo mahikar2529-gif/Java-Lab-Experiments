@@ -1,0 +1,8 @@
+EXPERIMENT 11 - OUTPUT
+========================================
+[Expected output (this program opens a GUI window, so it cannot print text).]
+Run it on your machine and replace this note with a screenshot, e.g. output.png.
+
+A form with Name, Password (masked) and Login / Clear buttons.
+Name = Rahul, Password = abc123 -> Login shows: Welcome, Rahul!
+Leaving a field empty shows: Enter name and password!

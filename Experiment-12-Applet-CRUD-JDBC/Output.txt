@@ -1,0 +1,11 @@
+EXPERIMENT 12 - OUTPUT
+========================================
+[Expected output (requires MySQL running with schema.sql applied and the MySQL JDBC driver on the classpath).]
+Run it on your machine and replace this note with a screenshot, e.g. output.png.
+
+Insert  (Rahul / abc123)   -> Status: Inserted: Rahul
+View All                    -> NAME                 PASSWORD
+                               Rahul                abc123
+Update  (Rahul / newpass)   -> Status: Updated: Rahul
+Delete  (Rahul)             -> Status: Deleted: Rahul
+View All                    -> (only the header row remains)

@@ -1,0 +1,11 @@
+EXPERIMENT 6 - OUTPUT
+========================================
+[Captured from an actual run of the program.]
+
+--- Terminal 1 (Server) ---
+Calculator RMI Server is ready...
+
+--- Terminal 2 (Client) ---
+Remote call: multiply(20, 5) = 100
+Remote call: add(20, 5)      = 25
+Remote call: subtract(20, 5) = 15
